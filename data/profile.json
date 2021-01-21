@@ -1,0 +1,289 @@
+{
+  "contact": {
+    "phone": "010-9148-2094",
+    "email": "rbsghks01@gmail.com",
+    "website": "https://show.gyunhwan.me",
+    "location": "Pusan, Korea"
+  },
+  "skills": [
+    {
+      "title": "Back-End",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Express",
+          "percent": 90
+        },
+        {
+          "name":"Node.js",
+          "percent":"90"
+        },
+        {
+          "name": "Javascript",
+          "percent": 90
+        },
+        {
+          "name": "Spring",
+          "percent": 80
+        },
+        {
+          "name": "Java",
+          "percent": 80
+        }
+      ]
+    },
+    {
+      "title": "Front-End",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "React",
+          "percent":"90"
+        },
+        {
+          "name":"Javascript",
+          "percent":"90"
+        },
+        {
+          "name":"HTML/CSS",
+          "percent":"80"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MySql"
+        },
+        {
+          "name": "Mongodb"
+        }
+      ]
+    },
+    {
+      "title": "Etc",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Git"
+        },
+        {
+          "name": "Agile"
+        },
+        {
+          "name": "AWS"
+        },
+        {
+          "name": "Jira"
+        },
+        {
+          "name":"Notion"
+        }
+      ]
+    }
+  ],
+  "summary": "18년 4월에 처음 Java와 Javascript를 배우고 18년 5월부터 Spring Framework와 React.js를 학습하고 활용했습니다. 2021년에 대학을 졸업하고 개발자로서 바깥에 첫발을 내디디려 하고 있습니다. 대학교 생활 중 React.js를 활용해 기업 연계 프로젝트를 1번 진행했으며, 그 외 Java, JSP/Servlet, Spring Framework, Spring Boot, MySQL, JavaScript, Node.js, Android, Unity(c#)를 활용한 프로젝트 경험이 있습니다. 데이터베이스 전공인 교수님 밑에 학부 연구생으로 들어가 연구실 생활을 경험했습니다. 연구생 선배를 통해 웹 백엔드 개발 및 프론트앤드 개발을 처음으로 접했고 선배 입장이 되어서는 제가 배운 것을 후배에게도 나누기도 했습니다. 연구실 생활을 통해 자신이 현재 알지 못하는 기술을 서치하고 내 것으로 만드는 법을 익혔으며, 동료와 함께 성장하고 함께 개발을 해내가는 법을 익혔습니다.제 대학 생활이 엄청나게 특별하거나 힘들었다고 말할 수는 없습니다. 하지만 저는 남들처럼 학과 커리큘럼에 온몸을 맡기듯하는 생활을 하지 않고 스스로 배움을 향해 달려갔습니다. 웹개발도 대부분 타인의 커리큘럼에 의지하지 않고 직접 학습하여 현재에 수준에 도달했습니다. 많이 부족하지만 더욱더 증진할 수 있다는 의지와 자신감이 있습니다. 향후 비즈니스 가치를 제 손으로 구현하고 이를 통해 세상에 영향을 끼치는 개발자가 되고자 합니다.",
+  "education": [
+    {
+      "institution": "동서대학교, 부산",
+      "degree": "컴퓨터공학부",
+      "start": "2015/03",
+      "end": "2021/02"
+    },
+    {
+      "institution": "부산동고등학교",
+      "degree": "이과",
+      "start": "2012/03",
+      "end": "2015/02"
+    }
+  ],
+  "experience": [
+    {
+      "role": "학부생 연구원",
+      "company": "DN Lab",
+      "list":[
+        {"description":"동서대학교 소프트웨어공학 연구실 (인원 10~15명)"},
+        {"description":"소속 연구원들과 학과 커리큘럼에만 그치지않고 다양한 소프트웨어 개발을 함께 공부함"},
+        {"description":"평일 오전 10시에 출근, 오후 10시에 퇴근이 기본규칙"},
+        {"description":"매주 금요일마다 세미나를 진행하여 서로 배운걸 리뷰하고 피드백함"},
+        {"description":"웹 프로젝트 외에도 Android, MR, Unity(c#), IoT 하드웨어/소프트웨어를 활용한 연구실 프로젝트 참여"},
+        {"description":"다양한 학술제, 해커톤, 전시회 참여 경험"},
+        {"description":"CAREER 보다는 EXPERIENCE"}
+      ],
+      "start": "2017/07",
+      "end": "2020/12"
+    }
+  ],
+  "social": [
+    {
+      "service": "github",
+      "url": "https://github.com/gyunhwan"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/profile.php?id=100008195327453"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/gyun0117/"
+    }
+  ],
+  "role": "Developer",
+  "projects": [
+    {
+      "name": "공유숙박 효율적 관리를 위한 IoT 기반  객실 매니지먼트 시스템",
+      "start":"2020/07",
+      "end":"2020.12",
+      "img":"iot",
+      "company": "Industry-University Cooperation Task",
+      "description": [
+        {
+          "text":"Spring과 React를 사용해 IOT 기반 객실 매니지먼트 시스템 개발"
+        },
+        {
+          "text":"해당 프로젝트에서 React를 사용해 예약 서비스 UI와 회사용 예약 관리 ERP를 개발"
+        },
+        {
+          "text":"개발한 프로젝트를 AWS에 배포"
+        },
+        {
+          "text":"업체에서 사용할 프로토타입을 설계 및 구현 해본 경험 및 팀원들과의 협업 및 StoryBook을 사용해 컴포넌트 설계를 경험해 본 프로젝트"
+        },
+        {
+          "text":"React,Redux등을 사용"
+        }
+      ],
+      "tag":[{"name":"React"},{"name":"Redux"},{"name":"Storybook"},{"name":"Git"},{"name":"Agile"},{"name":"Spring"},{"name":"Aws"},{"name":"Auth"}],
+      "link": "https://github.com/DN-2020/fe/tree/develop"
+    },
+    {
+      "name": "SNS 중독 완화를 위한 게이미피케이션 기반 디지털 테라피 어플리케이션",
+      "start":"2020/03",
+      "end":"2020.07",
+      "img":"digitalTeraphy",
+      "company": "Capstone Design",
+      "description": [
+        {
+          "text":"프로젝트 전체 내용은 Unity와 Android를 사용해 게이미피케이션을 구현"
+        },
+        {
+          "text":"어플리케이션 개발 내용은 Unity의 게임엔진을 이용해 컨텐츠를 만들고 안드로이드를 통해 모바일의 기능을 사용하였으며 각기 다른 두 언어의 호환을 위해 인터페이스를 설계하여 구현"
+        },
+        {
+          "text":"아이디어 정의, 설계, 개발, 논문 작성 등을 완전히 1인에서 설계 및 개발해봄으로써 프로젝트의 전체적인 부분에 관여하는 법을 알게된 프로젝트"
+        },
+        {
+          "text":"Unity(C#),Android,SQLite등을 사용"
+        }
+      ],
+      "tag":[{"name":"C"},{"name":"C#"},{"name":"Unity"},{"name":"Java"},{"name":"Android"}],
+      "link": "https://github.com/gyunhwan/graduateAndroid"
+    },
+    {
+      "name": "상호 평가 아르바이트 사이트",
+      "start":"2019/09",
+      "end":"2019.12",
+      "img":"part-time",
+      "company": "Capstone Design",
+      "description": [
+        {
+          "text":"Node.js 와 ejs 를 사용해 MVC 패턴을 구현, 프론트엔드팀은 ejs로 UI를 개발하고 백엔드팀은 Node.js를 활용해 Server를 개발"
+        },
+        {
+          "text":"백엔드 개발 내용은 상호 평가, 알바 구인구직, 사장들의 알바 정보를 공유하기 위한 그룹 리소스 제공을 위한 데이터베이스 설계 및 구축, Server 개발"
+        },
+        {
+          "text":"백엔드와 프론트앤드의 인원 분리 없이 개발하여 팀원들과의 협업의 중요성과 업무 분담의 중요성을 알게 된 프로젝트"
+        },
+        {
+          "text":"Node.js,MySql,Ejs등을 사용"
+        }
+      ],
+      "tag":[{"name":"Javascript"},{"name":"Express"},{"name":"Noode.js"},{"name":"Ejs"},{"name":"MySQL"}],
+      "link": "https://github.com/gyunhwan/node_part_time_job"
+    },
+    {
+      "name": "식자재 쇼핑 사이트",
+      "start":"2019/09",
+      "end":"2019.12",
+      "img":"food",
+      "company": "Capstone Design",
+      "description": [
+        {
+          "text":"프로젝트 전체 내용은 Spring MVC 구현, 프론트엔드팀은 JSP로 웹을 개발하고 백엔드팀은 Spring을 활용해 Server를 개발"
+        },
+        {
+          "text":"백엔드 개발 내용은 식자재 검색, 식자재 공급, 식자재 구매 관련 리소스 제공을 위한 데이터베이스 설계 및 구축, Server 개발"
+        },
+        {
+          "text":"백엔드와 프론트앤드의 인원 분리 없이 개발하여 팀원들과의 협업의 중요성과 업무 분담의 중요성을 알게 된 프로젝트"
+        },
+        {
+          "text":"Spring Framework, MyBatis, MySQL 등을 사용"
+        }
+      ],
+      "tag":[{"name":"Java"},{"name":"Spring"},{"name":"MyBatis"},{"name":"MySQL"},{"name":"JSP"},{"name":"Apache Tomcat"},{"name":"Spring MVC"}],
+      "link": "https://github.com/gyunhwan/DB_Food_Online_Market"
+    },
+    {
+      "name": "여행 물품 공유 시스템",
+      "start":"2019/09",
+      "end":"2019.12",
+      "img":"tiss",
+      "company": "Capstone Design",
+      "description": [
+        {
+          "text":"프로젝트 전체 내용은 RESTful Service 구현, 프론트엔드팀은 안드로이드로 앱을 개발하고 백엔드팀은 Spring을 활용해 REST API를 개발"
+        },
+        {
+          "text":"백엔드 개발 내용은 여행 물건을 공유하기 위한 회원 관리 및 물건 공유 게시판 관리 구축을 위한 데이터베이스 설계 및 구축, REST API 개발"
+        },
+        {
+          "text":"백엔드 팀은 본인 1명 이었으므로 백엔드 관련 모든 설계 및 구현을 1인으로 진행함"
+        },
+        {
+          "text":"팀원들 간 Gitlab, JIRA를 활용하여 협업 능력 강화에 도움이 된 프로젝트"
+        },
+        {
+          "text":"Spring , MyBatis, MySQL, Android 등을 사용"
+        }
+      ],
+      "tag":[{"name":"Java"},{"name":"Spring"},{"name":"MyBatis"},{"name":"MySQL"},{"name":"Android"},{"name":"RestAPI"},{"name":"ApacheTomcat"}],
+      "link": "https://github.com/gyunhwan/TISS_Server"
+    }
+  ],
+  "etc":[
+    {
+      "name":"KSCI 우수 논문상",
+      "link":"https://github.com/gyunhwan/award/blob/master/ksci.PNG",
+      "company":"KSCI",
+      "description":"SNS 중독 완화를 위한 게이피케이션 기반 디지털테라피 어플리케이션",
+      "period":"2020/07"
+    },
+    {
+      "name":"캡스톤 디자인 경진대회 최우수상",
+      "link":"https://github.com/gyunhwan/award/blob/master/linc%2Bfair.PNG",
+      "company":"DSU",
+      "description":"여행 물품 공유 시스템",
+      "period":"2019/12"
+    },
+    {
+      "name":"삼성 멀티캠퍼스 집합 React 교육 수료",
+      "link":"#",
+      "company":"Samsung multicampus",
+      "description":"React의 가상Dom의 작동 방식을 이해하고 UI 컴포넌트를 개발, JSX, FLUX를 이용해 뷰 컴포넌트를 구성하여 단방향 데이터 흐름의 처리 방식을 보완, Redux와 React-Router를 이용해 효과적으로 관리되는 SPA를 개발",
+      "period":"2018/07"
+    },
+    {
+      "name":"육군 병장 만기 전역",
+      "link":"#",
+      "company":"ROKA",
+      "description":"81mm 박격포 분대장",
+      "period":"2016/05 - 2018.02"
+    }
+
+  ],
+  "fullname": "이균환"
+}
